@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 const fs = require("fs");
-const db = require("old-wio.db")
+
 
 const client = new Discord.Client();
 const config = require("./config.js");
